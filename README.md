@@ -85,3 +85,5 @@ A ideia é criar uma aplicação simples usando **HTML, CSS e JavaScript** para 
 1. Clonar ou baixar este repositório:  
    ```bash
    git clone https://github.com/EuGeanCarlos/challenge-amigo-secreto.git
+
+```
