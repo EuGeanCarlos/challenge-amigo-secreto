@@ -24,7 +24,7 @@ Requer Python 3 para o servidor local. Abra http://localhost:8000.
 
 ## Demonstração e publicação
 
-Execução local. Nenhuma demonstração nova foi confirmada nesta etapa.
+[Acessar demonstração verificada](https://eugeancarlos.github.io/challenge-amigo-secreto/)
 
 ## Estrutura versionada
 
@@ -87,3 +87,7 @@ A ideia é criar uma aplicação simples usando **HTML, CSS e JavaScript** para 
    git clone https://github.com/EuGeanCarlos/challenge-amigo-secreto.git
 
 ```
+
+## Validação desta auditoria — 14/10/2026
+
+PUBLICADO: [workflow confirmado](https://github.com/EuGeanCarlos/challenge-amigo-secreto/actions/runs/38608053847), HTTP 200, conteúdo correspondente ao projeto e 4 recursos locais verificados. Inclusão de participante e sorteio confirmados no navegador publicado.
